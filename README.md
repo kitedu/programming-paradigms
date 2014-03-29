@@ -1,7 +1,7 @@
 Programmierparadigmen
 =====================
 
-More information in the subfolders
+Ready to use docker images for all covered languages like X10, Prolog Scala... More information and examples in the subfolders.
 
 ### Getting started with docker
 
