@@ -11,7 +11,7 @@ $ docker run -i -t scala
 
 ## Usage
 
-Run the following commands in the docker container. This example covers [this code snippet](http://www.scala-lang.org/old/node/166.html). Save the snippet as `HelloWorld.scala`. (The filename has to be the same as the classname.)
+Run the following commands in the docker container. This example covers [this code snippet](http://www.scala-lang.org/old/node/166.html). It's already in the /code directory of the Docker Container. (The filename has to be the same as the classname.)
 
 ### Compile
 
