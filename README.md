@@ -11,3 +11,9 @@ Ready to use [docker](https://www.docker.io/) images for all covered languages l
 ### Class summary
 
 [Martin Thoma](https://github.com/MartinThoma) wrote a summary, which can be found [here](https://github.com/MartinThoma/LaTeX-examples/tree/master/documents/Programmierparadigmen).
+
+### Authors
+
+* [Johannes Schickling](https://github.com/schickling)
+* [Tim Suchanek](https://github.com/timsuchanek)
+
