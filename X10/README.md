@@ -11,7 +11,7 @@ $ docker run -i -t x10
 
 ## Usage
 
-Run the following commands in the docker container. This example covers [this code snippet](http://x10-lang.org/documentation/code-examples/hello-world.html). Save the snippet as `HelloWholeWorld.x10`. (The filename has to be the same as the classname.)
+Run the following commands in the docker container. This example covers the file `HelloWholeWorld.x10`. (It's already in the `/code` directory.) The filename has to be the same as the classname.
 
 ### Compile
 

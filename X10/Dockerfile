@@ -12,6 +12,7 @@ RUN tar xvzf x10-2.4.2_linux_x86_64.tgz -C /x10
 RUN rm x10-2.4.2_linux_x86_64.tgz
 RUN ln -s /x10/bin/* /usr/bin/
 RUN mkdir /code
+ADD HelloWholeWorld.x10 /code/HelloWholeWorld.x10
 
 WORKDIR /code
 
