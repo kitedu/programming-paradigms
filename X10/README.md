@@ -6,7 +6,7 @@ X10
 ```sh
 $ cd X10
 $ docker build -t x10 .
-$ docker run -i -t x10 bash
+$ docker run -i -t x10
 ```
 
 ## Usage
