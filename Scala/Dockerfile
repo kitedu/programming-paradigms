@@ -1,2 +1,7 @@
-FROM ubuntu:12.04
+FROM lukasz/docker-scala
 
+RUN mkdir /code
+
+WORKDIR /code
+
+CMD ["bash"]
