@@ -1,4 +1,5 @@
 FROM ubuntu:12.04
+MAINTAINER Johannes Schickling "schickling.j@gmail.com"
 
 ENV JAVA_HOME /usr
 
