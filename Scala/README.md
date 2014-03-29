@@ -24,3 +24,6 @@ $ scalac HelloWorld.scala
 ```sh
 $ scala HelloWorld
 ```
+
+### Credits
+Credits to [lukasz's](https://index.docker.io/u/lukasz/docker-scala/) Scala Docker Container, on which this container is build on!
